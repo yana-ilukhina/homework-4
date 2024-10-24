@@ -7,6 +7,6 @@ public class University {
     int numberOfDepartments;
     String nameOfRector;
 
-    //Professor professor; // ?? можно сделать массивом?
-    //Student student;
+    Professor professor; // ?? можно сделать массивом?
+    Student student;
 }
